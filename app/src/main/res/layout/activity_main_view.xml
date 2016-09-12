@@ -7,7 +7,7 @@
         >
     <RelativeLayout
         android:id="@+id/rl_title"
-        android:background="#2B579A"
+        android:background="#6B5B5B"
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="50dp">
@@ -34,7 +34,7 @@
             android:layout_alignParentRight="true"
             android:layout_marginRight="10dp"
             android:src="@android:drawable/ic_input_add"
-            android:id="@+id/ib_muchfunc"
+            android:id="@+id/iv_muchfunc"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
     </RelativeLayout>
